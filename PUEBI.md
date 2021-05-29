@@ -159,7 +159,7 @@ Kementerian Pendidikan dan Kebudayaan. [PDF](http://badanbahasa.kemdikbud.go.id/
 | III.F3		| Tanda pisah dipakai di antara dua bilangan, tanggal, atau tempat yang berarti ‘sampai dengan’ atau ‘sampai ke’. |
 | III.G1		| Tanda tanya dipakai pada akhir kalimat tanya. |
 | III.G2		| Tanda tanya dipakai di dalam tanda kurung untuk menyatakan bagian kalimat yang disangsikan atau yang kurang dapat dibuktikan kebenarannya. |
-| III.H2		| Tanda seru dipakai untuk mengakhiri ungkapan atau pernyataan yang berupa seruan atau perintah yang menggambarkan kesungguhan, ketidakpercayaan, atau emosi yang kuat. |
+| III.H1		| Tanda seru dipakai untuk mengakhiri ungkapan atau pernyataan yang berupa seruan atau perintah yang menggambarkan kesungguhan, ketidakpercayaan, atau emosi yang kuat. |
 | III.I1		| Tanda elipsis dipakai untuk menunjukkan bahwa dalam suatu kalimat atau kutipan ada bagian yang dihilangkan. |
 | III.I1:1	| Tanda elipsis itu didahului dan diikuti dengan spasi |
 | III.I1:2	| Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah). |
